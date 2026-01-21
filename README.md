@@ -1,6 +1,6 @@
 ### Welcome,
 
-I have been teaching mathematics and computer science classes for over 35 years and one of my professional development activities during that time has been the creation of educational software, primarily for teaching college-level mathematics.  I have uploaded a few of the more recent packages I have created, both for education and department-level administration.  I hope that you find the packages I have shared to be useful to you.
+One of my professional development activities during my career has been the creation of educational software, primarily for teaching college-level mathematics.  I have uploaded a few of the more recent packages I have created, both for education and department-level administration.  I hope that you find the packages I have shared to be useful to you.
 
 #### Mathematical Applications
 
