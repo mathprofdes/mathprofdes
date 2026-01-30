@@ -1,6 +1,6 @@
 ### Welcome,
 
-One of my professional development activities during my career has been the creation of educational software, primarily for teaching college-level mathematics.  I have uploaded a few of the more recent packages I have created, both for education and department-level administration.  I hope that you find the packages I have shared to be useful to you.
+One of my professional development activities during my career has been the creation of educational software, primarily for teaching college-level mathematics.  I have uploaded a few of the more recent packages I have created, both for education and department-level administration.  I have also uploaded some course materials and example code for some of the computer science courses I have instructed recently. I hope that you find the software packages and materials useful to you.
 
 #### Mathematical Applications
 
