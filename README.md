@@ -20,3 +20,14 @@ One of my professional development activities during my career has been the crea
 - **[LaTeX Table Creator](https://github.com/mathprofdes/LaTeX-Table-Creator)**: The LaTeX Table Creator is an application that allows the user to input data into a grid and export the contents to LaTeX syntax given a few options.
 - **[Text Converter](https://github.com/mathprofdes/Text-Converter)**: The Text Converter is a simple text and numeric manipulation application that allows the user to do some specialized conversions that may not be available in a standard text editor or programming IDE.
 
+#### Course Materials and Example Code
+
+- **[Introductory Java Programming](https://github.com/mathprofdes/Introductory-Java-Programming)**: Course materials and example programs for an introductory programming course in Java.
+- **[CSI in C++](https://github.com/mathprofdes/CSI-in-Cpp)**: Course materials and example programs for a CSI class in C++.
+- **[CSII in C++](https://github.com/mathprofdes/CSII-in-Cpp)**: Course materials and example programs for a CSII class in C++.
+- **[Algorithms and Data Structures in C++](https://github.com/mathprofdes/Algorithms-and-Data-Structures-in-Cpp)**: Course materials and example programs for an Algorithms and Data Structures class in C++.
+- **[Computer Graphics in C++](https://github.com/mathprofdes/Computer-Graphics-in-Cpp)**: Course materials and example programs for a Computer Graphics class in C++.
+- **[Computer Graphics in Python](https://github.com/mathprofdes/Computer-Graphics-in-Python)**: Course materials and example programs for a Computer Graphics class in Python.
+- **[High Performance Computing in C](https://github.com/mathprofdes/High-Performance-Computing-in-C)**: Course materials and example programs for a High Performance Computing class in C/C++.
+
+
