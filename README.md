@@ -19,6 +19,7 @@ One of my professional development activities during my career has been the crea
 
 - **[LaTeX Table Creator](https://github.com/mathprofdes/LaTeX-Table-Creator)**: The LaTeX Table Creator is an application that allows the user to input data into a grid and export the contents to LaTeX syntax given a few options.
 - **[Text Converter](https://github.com/mathprofdes/Text-Converter)**: The Text Converter is a simple text and numeric manipulation application that allows the user to do some specialized conversions that may not be available in a standard text editor or programming IDE.
+- **[Image Annotator](https://github.com/mathprofdes/Image-Annotator)**: The Image Annotator is a program for incorporating simple annotations on an image.
 
 #### Course Materials and Example Code
 
