@@ -4,6 +4,7 @@ One of my professional development activities during my career has been the crea
 
 #### Mathematical Applications
 
+- **[CLAE: Calculus and Linear Algebra Explorer](https://github.com/mathprofdes/CLAE)**: The Calculus and Linear Algebra Explorer (CLAE) is a program that was developed for the quick and easy exploration of concepts usually studied in an introductory Calculus sequence and in an elementary Linear Algebra class at the college and university level.
 - **[Cryptography Explorer](https://github.com/mathprofdes/Cryptography-Explorer)**: The Cryptography Explorer program was developed for the investigation of cryptography and cryptanalysis. It was developed as a teaching tool to try to remove the tedious calculations but still require the user to make the decisions for the processes and analysis. I have also included a set of notes that can be used as textbook supplements when teaching Cryptography.
 - **[Fractal Generator](https://github.com/mathprofdes/Fractal-Generator)**: The Fractal Generator is designed to display images produced from complex and real parametric dynamical systems. Its main purpose is to allow the user to experiment with their own formulas in the dynamical system.
 - **[PascGaloisJE](https://github.com/mathprofdes/PascGaloisJE)**: PascGalois JE is a platform independent program developed for the exploration of one and two dimensional cellular automata over finite group structures. The supported group structures are Zn, Zn (under multiplication), Dn, Sn, the Quaternions, Qn (Generalized Quaternions) and Cn (Dicyclic groups).
