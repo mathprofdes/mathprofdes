@@ -22,7 +22,7 @@ One of my professional development activities during my career has been the crea
 - **[Text Converter](https://github.com/mathprofdes/Text-Converter)**: The Text Converter is a simple text and numeric manipulation application that allows the user to do some specialized conversions that may not be available in a standard text editor or programming IDE.
 - **[Image Annotator](https://github.com/mathprofdes/Image-Annotator)**: The Image Annotator is a program for incorporating simple annotations on an image.
 
-#### Course Materials and Example Code
+#### Computer Science Course Materials and Example Code
 
 - **[Introductory Java Programming](https://github.com/mathprofdes/Introductory-Java-Programming)**: Course materials and example programs for an introductory programming course in Java.
 - **[CSI in C++](https://github.com/mathprofdes/CSI-in-Cpp)**: Course materials and example programs for a CSI class in C++.
