@@ -4,7 +4,7 @@ One of my professional development activities during my career has been the crea
 
 #### Mathematical Applications
 
-- **[CLAE: Calculus and Linear Algebra Explorer](https://github.com/mathprofdes/CLAE)**: The Calculus and Linear Algebra Explorer (CLAE) is a program that was developed for the quick and easy exploration of concepts usually studied in an introductory Calculus sequence and in an elementary Linear Algebra class at the college and university level.
+- **[CLAE: Calculus and Linear Algebra Explorer](https://github.com/mathprofdes/CLAE)**: The Calculus and Linear Algebra Explorer (CLAE) is a program that was developed for the quick and easy exploration of concepts usually studied in an introductory Calculus sequence and in an elementary Linear Algebra class at the college and university level. The following tutorials use the CLAE software in context. 
   - **[Calculus Tutorials](https://github.com/mathprofdes/Calculus-Tutorials)**: This set of tutorials and examples was developed as a supplement to a STEM college-level sequence in Calculus to use computer algebra system and graphing technology to visualize and explore concepts in these courses.
   - **[Linear Algebra Tutorials](https://github.com/mathprofdes/Linear-Algebra-Tutorials)**: This set of tutorials and examples was developed as a supplement to an introductory college-level course in linear algebra.
 
