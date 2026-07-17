@@ -22,6 +22,11 @@ One of my professional development activities during my career has been the crea
 - **[Text Converter](https://github.com/mathprofdes/Text-Converter)**: The Text Converter is a simple text and numeric manipulation application that allows the user to do some specialized conversions that may not be available in a standard text editor or programming IDE.
 - **[Image Annotator](https://github.com/mathprofdes/Image-Annotator)**: The Image Annotator is a program for incorporating simple annotations on an image.
 
+#### Mathematics Course Materials
+
+- **[Calculus Tutorials](https://github.com/mathprofdes/Calculus-Tutorials)**: This set of tutorials and examples was developed as a supplement to a STEM college-level sequence in Calculus to use computer algebra system and graphing technology to visualize and explore concepts in these courses.
+- **[Linear Algebra Tutorials](https://github.com/mathprofdes/Linear-Algebra-Tutorials)**: This set of tutorials and examples was developed as a supplement to an introductory college-level course in linear algebra.
+
 #### Computer Science Course Materials and Example Code
 
 - **[Introductory Java Programming](https://github.com/mathprofdes/Introductory-Java-Programming)**: Course materials and example programs for an introductory programming course in Java.
